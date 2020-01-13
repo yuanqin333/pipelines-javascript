@@ -4,7 +4,7 @@ For information on how to set up a pipeline for this repository, see [Create you
 For more information on building JavaScript or NodeJS applications, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 #CI
-https://dev.azure.com/yuanqinjz/javascript/_apis/build/status/yuanqin333.pipelines-javascript?branchName=master
+[![Build Status](https://dev.azure.com/yuanqinjz/javascript/_apis/build/status/yuanqin333.pipelines-javascript?branchName=master)](https://dev.azure.com/yuanqinjz/javascript/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
